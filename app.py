@@ -1,14 +1,3 @@
-1 of 9,296
-app med supply
-Inbox
- 
-
-Bernard Buie
-3:26 PM (2 minutes ago)
-to me
-
-
-
 import streamlit as st
 import pandas as pd
 
